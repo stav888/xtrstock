@@ -1,7 +1,9 @@
 # xtrstock
 
-This repository contains a NumPy example and PDF documents.
+This repository contains a NumPy example and reference documents.
 
 - [Download tomoki1207.pdf](tomoki1207.pdf)
-- [Download the stock investing PDF](Stock%20Market%20Stock%20Market%20Investing%20for%20Beginners-%20Simple%20Stock%20Investing%20Guide%20to%20Become%20an%20Intelligent%20Investor%20and%20Make%E2%80%A6%20%28Morales,%20David,%20Community%20etc.%29.pdf)
+- [Download the stock investing guide](stock_market_investing_guide.pdf)
+- [Download probabilistic machine learning](probabilistic_machine_learning.pdf)
+- [Download algorithmic trading reference](machine_learning_algorithmic_trading.mobi)
 - [View the Python example](new.py)
